@@ -1,2 +1,2 @@
-# KNN-and-Random-Forestt
+# KNN-and-Random-Forest
 Breast_cancer_data
